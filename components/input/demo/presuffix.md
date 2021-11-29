@@ -30,10 +30,10 @@ ReactDOM.render(
     />
     <br />
     <br />
-    <Input prefix="￥" suffix="RMB" />
+    <Input prefix="$" suffix="TWD" />
     <br />
     <br />
-    <Input prefix="￥" suffix="RMB" disabled />
+    <Input prefix="$" suffix="TWD" disabled />
   </>,
   mountNode,
 );
